@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="./css/style.css">
+<script src=""></script>
+<script src="../public/js/main.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <title>inspire me</title>
+</head>
+<body>
+<blockquote id="quote" class="quote">Click or tap on the page to get inspired</blockquote>
+<h2 id="author" class="author"></h2>
+</body>
+</html
